@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         charaImage.animationRepeatCount = 1
         charaImage.startAnimating()
         
+        
     }
     
 }
